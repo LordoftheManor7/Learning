@@ -3,7 +3,7 @@ def hugs_and_kisses(number_hugs, number_kisses):
   prompt = 'Hmm?\n'
   prompt2 = 'Is that ok?\n'
 
-  print(f"\nI will give you {number_hugs} big hugs because you make me happy!")
+  print(f"\nI want to give you {number_hugs} big hugs because you make me happy!")
   print("\nHow many hugs would you like to give me?\n")
   hugs = input(prompt)
   print("\nReally? Thanks!")
